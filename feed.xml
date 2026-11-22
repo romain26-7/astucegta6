@@ -3,12 +3,102 @@
     <title>Guide GTA 6</title>
     <link href="https://astucegta6.fr/feed.xml" rel="self" />
     <link href="https://astucegta6.fr" />
-    <updated>2026-11-22T16:43:33+01:00</updated>
+    <updated>2026-11-22T17:00:06+01:00</updated>
     <author>
         <name>Lucia Caminos</name>
     </author>
     <id>https://astucegta6.fr</id>
 
+    <entry>
+        <title>GTA 6 trop sombre sur PS5 : comment régler le HDR</title>
+        <author>
+            <name>Jason Duval</name>
+        </author>
+        <link href="https://astucegta6.fr/gta-6-trop-sombre-reglage-hdr-ps5/"/>
+        <id>https://astucegta6.fr/gta-6-trop-sombre-reglage-hdr-ps5/</id>
+        <media:content url="https://astucegta6.fr/media/posts/18/GTA-6-PS5-HDR.jpg" medium="image" />
+            <category term="Technique"/>
+
+        <updated>2026-11-22T17:00:06+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://astucegta6.fr/media/posts/18/GTA-6-PS5-HDR.jpg" alt="GTA 6 trop sombre sur PS5 : comment régler le HDR" />
+                    Si GTA 6 vous paraît trop sombre sur PS5, le premier suspect est le calibrage HDR du jeu. A priori, GTA 6 ignore le calibrage HDR réalisé dans les réglages de la console : il faut donc régler l'image dans le jeu lui-même. Quand vous&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://astucegta6.fr/media/posts/18/GTA-6-PS5-HDR.jpg" class="type:primaryImage" alt="GTA 6 trop sombre sur PS5 : comment régler le HDR" /></p>
+                
+  <p>
+    <b>Si GTA 6 vous paraît trop sombre sur PS5, le premier suspect est le calibrage HDR du jeu. A priori, GTA 6 ignore le calibrage HDR réalisé dans les réglages de la console : il faut donc régler l'image dans le jeu lui-même.</b>
+  </p>
+
+    <h2 id="gta-6-ou-trouver-le-calibrage-hdr-sur-la-ps5">
+      GTA 6 : Où trouver le calibrage HDR sur la PS5 ?
+    </h2>
+
+  <p>
+    Quand vous jouez&nbsp; GTA 6, appuyez sur Options, puis Paramètres, Affichage, Calibrage HDR. L'écran s'affiche aussi au premier lancement. Le HDR est activé par défaut.
+  </p>
+
+    <h2 id="les-trois-curseurs-a-regler-dans-le-mode-hdr">
+      Les trois curseurs à régler dans le mode HDR
+    </h2>
+
+  <p>
+    • Luminosité maximale : 600 par défaut.<br>• Niveaux de noir : 50 par défaut.<br>• Blanc papier : 50 par défaut.<br>
+  </p>
+
+  <p>
+    Trois images de test s'enchaînent avec R1. Parmi elles, deux vues de la fête sur le bateau, une claire et une sombre : utilisez-les toutes les deux, plutôt que de vous limiter au logo.
+  </p>
+<div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">⚠️ These are the best HDR settings for GTA 6 on most displays, especially OLED screens.
+
+🔹 Blacks look rich and beautiful without overpowering the image.
+🔹 Lighting is perfectly balanced without losing detail.
+
+Getting your HDR settings right is essential for the best gaming experience! ✅</p>&mdash; GTA VI CITY (@gtavicity2026) <a href="https://x.com/gtavicity2026/status/2123805599938892095?ref_src=twsrc%5Etfw">November 20, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></div>
+
+    <h2 id="un-point-de-depart-pour-un-televiseur-de-1-000-nits">
+      Un point de départ pour un téléviseur de 1 000 nits
+    </h2>
+
+  <p>
+    Le jeu demande de baisser la luminosité maximale jusqu'à ce que le logo Rockstar soit à peine visible. Sur certains écrans, ce logo reste invisible avant même de toucher le curseur, ce qui fausse le réglage. Il est recommandé de partir de 2 000 pour la luminosité maximale sur un téléviseur de 1 000 nits. Le bon réglage dépend de votre écran, de la pièce et de votre éclairage.
+  </p>
+
+    <h2 id="regler-la-luminosite-sans-tout-changer">
+      Régler la luminosité sans tout changer
+    </h2>
+
+  <p>
+    Modifiez un paramètre à la fois. Relever en même temps la luminosité du jeu, celle du téléviseur et plusieurs traitements d'image rend la comparaison inutile. Passez le téléviseur en mode Jeu et laissez le calibrage système de la PS5 tel quel : il reste utile pour les autres jeux.
+  </p>
+
+    <h2 id="le-flou-de-mouvement">
+      Le flou de mouvement
+    </h2>
+
+  <p>
+    Essayez avec et sans le flou de mouvement, de préférence pendant une scène d'action rapide. Plusieurs niveaux existent, et les avis divergent sur le meilleur, surtout sur OLED.
+  </p>
+
+    <h2 id="limites">
+      Limites
+    </h2>
+
+  <p>
+    Un écran avec peu de luminosité ou des noirs médiocres ne deviendra pas un bon écran HDR avec ce réglage. Dans ce cas, comparez avec le HDR désactivé.
+  </p>
+
+  <p>
+    <b>Lisez aussi :</b> <a href="https://astucegta6.fr/gta-6-plante-ne-se-lance-pas-erreurs/" target="_blank">que faire si&nbsp;GTA 6 plante ou ne se lance pas (PS5, Xbox)</a>
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Niveau de recherche dans GTA 6 : étoiles, icônes rouges et comment semer la police</title>
         <author>
@@ -753,64 +843,6 @@ Rockstar a intégré un système de rénovation permettant aux joueurs d'effectu
 
   <p>
     Sensibilité de la caméra et de la visée, vibrations, sous-titres, balance audio. Sur PS5, les gâchettes adaptatives se baissent dans l'accessibilité.
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>GTA 6 sur PC et GTA Online : ce qui est confirmé, ce qui ne l&#x27;est pas</title>
-        <author>
-            <name>Lucia Caminos</name>
-        </author>
-        <link href="https://astucegta6.fr/gta-6-pc-gta-online-date/"/>
-        <id>https://astucegta6.fr/gta-6-pc-gta-online-date/</id>
-        <media:content url="https://astucegta6.fr/media/posts/3/GTA-6-pc.jpg" medium="image" />
-            <category term="Online"/>
-            <category term="Actus"/>
-
-        <updated>2026-11-20T01:33:08+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://astucegta6.fr/media/posts/3/GTA-6-pc.jpg" alt="GTA 6 sur PC" />
-                    Deux questions reviennent partout depuis le lancement de GTA 6 : quand aura-t-on droit à la version PC et au mode en ligne ? Réponse courte : rien n'est annoncé officiellement pour l'un comme pour l'autre. Rockstar n'a donné ni date ni fenêtre de sortie&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://astucegta6.fr/media/posts/3/GTA-6-pc.jpg" class="type:primaryImage" alt="GTA 6 sur PC" /></p>
-                
-  <p>
-    <br>Deux questions reviennent partout depuis le lancement de GTA 6 : quand aura-t-on droit à la version PC et au mode en ligne ? Réponse courte : rien n'est annoncé officiellement pour l'un comme pour l'autre.
-  </p>
-
-    <h2 id="quand-sortira-gta-6-sur-pc">
-      Quand sortira GTA 6 sur PC ?
-    </h2>
-
-  <p>
-    Rockstar n'a donné ni date ni fenêtre de sortie pour GTA 6 sur PC. Deux hypothèses circulent. GamesBeat a rapporté en octobre une sortie début 2027, sans confirmation de Rockstar.&nbsp;
-  </p>
-
-  <p>
-    PC Gamer ne s'attend pas à une version avant la seconde moitié de 2027 et rappelle le précédent de GTA V : sorti sur consoles en septembre 2013, annoncé sur PC à l'été 2014, puis repoussé plusieurs fois jusqu'en 2015. Une date de sortie sur PC n'est donc pas forcément proche malgré des rumeurs folles qui circulent, les dernières en date évoquant une sortie pour Noël.
-  </p>
-<div><blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Tlm va jouer à GTA 6 pendant que moi jsuis sur PC https://t.co/odrYeS3lpv</p>&mdash; 🪷 (@iaambl) <a href="https://x.com/iaambl/status/2123142147495145899?ref_src=twsrc%5Etfw">November 18, 2026</a></blockquote>
-<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script></div>
-
-    <h2 id="gta-6-mode-en-ligne">
-      GTA 6 Mode en ligne
-    </h2>
-
-  <p>
-    GTA 6 sort comme un jeu solo, et la fiche du PlayStation Store parle d'une expérience solo. Le journaliste Jason Schreier (Bloomberg) a indiqué le 14 octobre que Rockstar prévoit son composant en ligne pour 2027. Rockstar n'a communiqué ni date, ni modèle économique, ni contenu. Une rumeur évoque un lancement dans le mois qui suit la sortie du jeu, mais mieux vaut la prendre avec des pincettes.<br>
-  </p>
-
-    <h2 id="en-attendant">
-      En attendant ?
-    </h2>
-
-  <p>
-    Le GTA Online actuel, celui de GTA V, reste accessible. Côté trophées, GTA 6 en compte 55, tous hors ligne : le platine ne nécessite pas de multijoueur.
   </p>
             ]]>
         </content>
