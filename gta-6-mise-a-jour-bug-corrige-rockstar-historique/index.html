@@ -17,7 +17,7 @@
 	        <link rel="shortcut icon" href="https://astucegta6.fr/media/website/AstuceGTA6-2.jpg" type="image/png" />
         
         <link rel="stylesheet" href="https://astucegta6.fr/assets/css/style.css">
-        <script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://astucegta6.fr/gta-6-mise-a-jour-bug-corrige-rockstar-historique/"},"headline":"GTA 6 : toutes les mises à jour et bugs corrigés par Rockstar","datePublished":"2026-11-24T23:49+01:00","dateModified":"2026-11-24T23:49+01:00","image":{"@type":"ImageObject","url":"https://astucegta6.fr/media/posts/21/GTA-6-erreur.jpg","height":756,"width":1344},"description":"Tous les correctifs de GTA 6 : versions 01.002.000, 01.002.001 et 01.002.002, tailles, dates, bugs corrigés par Rockstar et problèmes encore présents.","author":{"@type":"Person","name":"Jason Duval","url":"https://astucegta6.fr/authors/jason-duval/"},"publisher":{"@type":"Organization","name":"Lucia Caminos"}}</script>
+        <script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://astucegta6.fr/gta-6-mise-a-jour-bug-corrige-rockstar-historique/"},"headline":"GTA 6 : toutes les mises à jour et bugs corrigés par Rockstar","datePublished":"2026-11-24T23:49+01:00","dateModified":"2026-11-24T23:53+01:00","image":{"@type":"ImageObject","url":"https://astucegta6.fr/media/posts/21/GTA-6-erreur.jpg","height":756,"width":1344},"description":"Tous les correctifs de GTA 6 : versions 01.002.000, 01.002.001 et 01.002.002, tailles, dates, bugs corrigés par Rockstar et problèmes encore présents.","author":{"@type":"Person","name":"Jason Duval","url":"https://astucegta6.fr/authors/jason-duval/"},"publisher":{"@type":"Organization","name":"Lucia Caminos"}}</script>
         <noscript>
             <style>
                 img[loading] {
@@ -212,114 +212,169 @@
   <p id="les-correctifs-apportes-a-gta-6-version-par-version">
     <b>Les correctifs apportés à GTA 6, version par version</b>
   </p>
-<div><div class="gta6-table-wrapper">
-  <table class="gta6-table">
-    <thead>
-      <tr>
-        <th>Version</th>
-        <th>Date</th>
-        <th>PS5</th>
-        <th>Xbox Series</th>
-        <th>Notes de Rockstar</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td data-label="Version"><span class="gta6-version">01.002.000</span></td>
-        <td data-label="Date">13 novembre</td>
-        <td data-label="PS5"><span class="gta6-size ps5">1,07 Go</span></td>
-        <td data-label="Xbox Series"><span class="gta6-size xbox">2,18 Go</span></td>
-        <td data-label="Notes de Rockstar"><span class="gta6-badge none">Aucune</span></td>
-      </tr>
-      <tr>
-        <td data-label="Version"><span class="gta6-version">01.002.001</span></td>
-        <td data-label="Date">16 novembre</td>
-        <td data-label="PS5"><span class="gta6-size ps5">602 Mo</span></td>
-        <td data-label="Xbox Series"><span class="gta6-size xbox">1,6 Go</span></td>
-        <td data-label="Notes de Rockstar"><span class="gta6-badge none">Aucune</span></td>
-      </tr>
-      <tr>
-        <td data-label="Version"><span class="gta6-version">01.002.002</span></td>
-        <td data-label="Date">23 novembre</td>
-        <td data-label="PS5"><span class="gta6-size ps5">603,8 Mo</span></td>
-        <td data-label="Xbox Series"><span class="gta6-size xbox">1,6 Go</span></td>
-        <td data-label="Notes de Rockstar"><span class="gta6-badge published">Publiées</span></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
+<div><div class="gta6-maj">
 <style>
-  .gta6-table-wrapper {
-    width: 100%;
-    margin: 24px 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    border-radius: 12px;
-    overflow: hidden;
-    background: #120d1d;
-    border: 1px solid rgba(255, 77, 166, 0.25);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
-  }
+.gta6-maj{
+  --g6-bg:#140b26;
+  --g6-row:#1d1236;
+  --g6-row-alt:#231742;
+  --g6-line:#3a2663;
+  --g6-text:#f4eefc;
+  --g6-muted:#a89cc4;
+  --g6-pink:#ff3d94;
+  --g6-orange:#ff8a3d;
+  --g6-gold:#ffc65c;
+  --g6-teal:#2fe0c8;
+  box-sizing:border-box;
+  background:var(--g6-bg);
+  border-radius:14px;
+  padding:16px;
+  margin:24px 0;
+  color:var(--g6-text);
+  font-family:"Helvetica Neue",Arial,sans-serif;
+}
+.gta6-maj *{box-sizing:border-box}
+.gta6-maj .g6-title{
+  margin:0 0 14px;
+  padding:0 0 12px;
+  font-size:1.15rem;
+  font-weight:800;
+  line-height:1.3;
+  color:var(--g6-text);
+  border-bottom:3px solid;
+  border-image:linear-gradient(90deg,var(--g6-pink),var(--g6-orange),var(--g6-gold)) 1;
+}
+.gta6-maj .g6-wrap{overflow-x:auto}
+.gta6-maj table{
+  width:100%;
+  border-collapse:collapse;
+  margin:0;
+  border:0;
+  font-size:.95rem;
+}
+.gta6-maj thead th{
+  background:linear-gradient(90deg,var(--g6-pink),var(--g6-orange));
+  color:#1a0b1f;
+  font-weight:800;
+  text-align:left;
+  padding:12px 14px;
+  border:0;
+  white-space:nowrap;
+}
+.gta6-maj thead th:first-child{border-radius:8px 0 0 8px}
+.gta6-maj thead th:last-child{border-radius:0 8px 8px 0}
+.gta6-maj tbody td{
+  padding:13px 14px;
+  border:0;
+  border-bottom:1px solid var(--g6-line);
+  background:var(--g6-row);
+  color:var(--g6-text);
+  vertical-align:middle;
+}
+.gta6-maj tbody tr:nth-child(even) td{background:var(--g6-row-alt)}
+.gta6-maj tbody tr:hover td{background:#2c1c52}
+.gta6-maj td.g6-version{
+  font-weight:800;
+  color:var(--g6-gold);
+  font-variant-numeric:tabular-nums;
+  white-space:nowrap;
+}
+.gta6-maj td.g6-size{font-variant-numeric:tabular-nums;white-space:nowrap}
+.gta6-maj .g6-none{color:var(--g6-muted)}
+.gta6-maj .g6-badge{
+  display:inline-block;
+  padding:3px 11px;
+  border-radius:999px;
+  font-size:.85rem;
+  font-weight:700;
+  color:#07241f;
+  background:var(--g6-teal);
+}
 
-  .gta6-table {
-    width: 100%;
-    border-collapse: collapse;
-    color: #f4f1f8;
-    text-align: left;
+@media (max-width:640px){
+  .gta6-maj{padding:12px}
+  .gta6-maj table,
+  .gta6-maj tbody,
+  .gta6-maj tr,
+  .gta6-maj td{display:block;width:100%}
+  .gta6-maj thead{
+    position:absolute;
+    width:1px;height:1px;
+    overflow:hidden;
+    clip:rect(0 0 0 0);
   }
-
-  .gta6-table thead {
-    background: linear-gradient(90deg, #ff3e8a 0%, #9b30ff 50%, #00d2ff 100%);
+  .gta6-maj tbody tr{
+    margin:0 0 12px;
+    border-radius:10px;
+    overflow:hidden;
+    border-left:4px solid var(--g6-pink);
+    background:var(--g6-row);
   }
-
-  .gta6-table th {
-    padding: 15px 18px;
-    font-size: 0.85rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-    color: #ffffff;
-    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+  .gta6-maj tbody td,
+  .gta6-maj tbody tr:nth-child(even) td{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:12px;
+    padding:10px 14px;
+    background:var(--g6-row);
+    border-bottom:1px solid var(--g6-line);
+    text-align:right;
   }
-
-  .gta6-table tbody tr {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-    transition: background-color 0.2s ease;
+  .gta6-maj tbody td:last-child{border-bottom:0}
+  .gta6-maj tbody td::before{
+    content:attr(data-label);
+    flex:0 0 auto;
+    font-weight:700;
+    color:var(--g6-muted);
+    text-align:left;
   }
-
-  .gta6-table tbody tr:last-child {
-    border-bottom: none;
+  .gta6-maj tbody td.g6-version{
+    background:linear-gradient(90deg,var(--g6-pink),var(--g6-orange));
+    color:#1a0b1f;
   }
+  .gta6-maj tbody td.g6-version::before{color:#4a1630}
+}
+</style>
 
-  .gta6-table tbody tr:nth-child(even) {
-    background-color: rgba(255, 255, 255, 0.02);
-  }
-
-  .gta6-table tbody tr:hover {
-    background-color: rgba(255, 62, 138, 0.1);
-  }
-
-  .gta6-table td {
-    padding: 14px 18px;
-    font-size: 0.95rem;
-    vertical-align: middle;
-  }
-
-  .gta6-version {
-    font-family: "Courier New", Courier, monospace;
-    font-weight: 700;
-    color: #ff85c0;
-    background: rgba(255, 62, 138, 0.14);
-    padding: 4px 8px;
-    border-radius: 6px;
-    border: 1px solid rgba(255, 62, 138, 0.3);
-  }
-
-  .gta6-size {
-    font-weight: 600;
-  }
-
-  .gta6-</div>
+<h3 class="g6-title">Mises à jour de GTA 6</h3>
+<div class="g6-wrap">
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Version</th>
+      <th scope="col">Date</th>
+      <th scope="col">PS5</th>
+      <th scope="col">Xbox Series</th>
+      <th scope="col">Notes de Rockstar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="g6-version" data-label="Version">01.002.000</td>
+      <td data-label="Date">13 novembre</td>
+      <td class="g6-size" data-label="PS5">1,07 Go</td>
+      <td class="g6-size" data-label="Xbox Series">2,18 Go</td>
+      <td data-label="Notes de Rockstar"><span class="g6-none">Aucune</span></td>
+    </tr>
+    <tr>
+      <td class="g6-version" data-label="Version">01.002.001</td>
+      <td data-label="Date">16 novembre</td>
+      <td class="g6-size" data-label="PS5">602 Mo</td>
+      <td class="g6-size" data-label="Xbox Series">1,6 Go</td>
+      <td data-label="Notes de Rockstar"><span class="g6-none">Aucune</span></td>
+    </tr>
+    <tr>
+      <td class="g6-version" data-label="Version">01.002.002</td>
+      <td data-label="Date">23 novembre</td>
+      <td class="g6-size" data-label="PS5">603,8 Mo</td>
+      <td class="g6-size" data-label="Xbox Series">1,6 Go</td>
+      <td data-label="Notes de Rockstar"><span class="g6-badge">Publiées</span></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div></div>
 
     <h2 id="les-bugs-de-gta-6-corriges-par-le-patch-01002002">
       Les bugs de GTA 6 corrigés par le patch 01.002.002
