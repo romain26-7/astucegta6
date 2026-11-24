@@ -3,7 +3,7 @@
     <title>Guide GTA 6</title>
     <link href="https://astucegta6.fr/feed.xml" rel="self" />
     <link href="https://astucegta6.fr" />
-    <updated>2026-11-24T23:55:15+01:00</updated>
+    <updated>2026-11-24T23:58:23+01:00</updated>
     <author>
         <name>Lucia Caminos</name>
     </author>
@@ -18,6 +18,7 @@
         <id>https://astucegta6.fr/gta-6-mise-a-jour-bug-corrige-rockstar-historique/</id>
         <media:content url="https://astucegta6.fr/media/posts/21/GTA-6-erreur.jpg" medium="image" />
             <category term="Technique"/>
+            <category term="Actus"/>
 
         <updated>2026-11-24T23:49:48+01:00</updated>
             <summary type="html">
@@ -39,7 +40,11 @@
   </p>
 
   <p>
-    Les deux premières mises à jour, obligatoires avant le lancement de GTA , n'étaient accompagnées d'aucune note : on ignore ce qu'elles ont corrigé. La 01.002.002 est la première publiée après la sortie, le 19 novembre. Elle a été déployée par vagues : un tiers des joueurs PS5 au départ, environ deux tiers après trois heures, tous après six heures.
+    Les deux premières mises à jour, obligatoires avant le lancement de GTA 6, n'étaient accompagnées d'aucune note : on ignore ce qu'elles ont corrigé.&nbsp;
+  </p>
+
+  <p>
+    La 01.002.002 est la première mise à jour publiée après la sortie du jeu, le 19 novembre. Elle a été déployée par vagues : un tiers des joueurs PS5 au départ, environ deux tiers après trois heures, tous après six heures.
   </p>
 
   <p id="les-correctifs-apportes-a-gta-6-version-par-version">
@@ -222,7 +227,7 @@
     </h2>
 
   <p>
-    Rockstar n'a pas publié de liste de bugs connus. D'après les retours des joueurs et de la presse, voici les principaux :<br>• <a href="https://astucegta6.fr/gta-6-plante-ne-se-lance-pas-erreurs/" target="_blank">L'erreur CE-108255-1 sur PS5</a>, un plantage que le patch ne règle pas toujours. Certains joueurs signalent moins de plantages, d'autres aucun changement.<br>• La mission Pipework, au moment de prendre la ventouse : certains joueurs restent bloqués.<br>• Le prologue sur PS5 Pro, que quelques joueurs n'arrivent pas à dépasser.<br>• Des failles de gain d'argent, dont un butin d'entrepôt qui réapparaît après le rechargement d'une sauvegarde, et 10 000 $ qui réapparaîtraient près d'une grange de Hamlet. Rockstar n'a pas dit si elles seront corrigées.<br>• Quick Resume sur Xbox Series X|S, qui pourrait faire sauter la limite de 30 images par seconde. Rockstar n'a rien précisé.<br>• Les sauvegardes déjà perdues, que le patch ne restaure pas : aucune promesse de Rockstar sur ce point.<br>
+    Rockstar n'a pas publié de liste de bugs connus. D'après les retours des joueurs et de la presse, voici les principaux problèmes persistants :<br>• <a href="https://astucegta6.fr/gta-6-plante-ne-se-lance-pas-erreurs/" target="_blank">L'erreur CE-108255-1 sur PS5</a>, un plantage que le patch ne règle pas toujours. Certains joueurs signalent moins de plantages, d'autres aucun changement.<br>• La mission Pipework, au moment de prendre la ventouse : certains joueurs restent bloqués.<br>• Le prologue sur PS5 Pro, que quelques joueurs n'arrivent pas à dépasser.<br>• Des failles de gain d'argent, dont un butin d'entrepôt qui réapparaît après le rechargement d'une sauvegarde, et 10 000 $ qui réapparaîtraient près d'une grange de Hamlet. Rockstar n'a pas dit si elles seront corrigées.<br>• Quick Resume sur Xbox Series X|S, qui pourrait faire sauter la limite de <a href="https://astucegta6.fr/gta-6-30-fps-ps5-pro-performances/" target="_blank">30 images par seconde</a>. Rockstar n'a rien précisé.<br>• Les sauvegardes déjà perdues, que le patch ne restaure pas : aucune promesse de Rockstar sur ce point.<br>
   </p>
 
     <h2 id="comment-installer-les-correctifs-de-gta-6-sur-ps5-et-xboxlessbrgreater">
@@ -230,7 +235,7 @@
     </h2>
 
   <p>
-    Une console connectée installe le patch automatiquement. Sur PS5, vérifiez la version dans Options &gt; Informations : elle doit afficher 01.002.002. La mise à jour système de la console reste obligatoire pour lancer le jeu. Continuez à sauvegarder à la main : un plantage reste possible, et le correctif de l'autosauvegarde n'efface pas ce risque.<br>
+    Une console connectée installe le patch automatiquement. Sur PS5, vérifiez la version dans Options &gt; Informations : elle doit afficher 01.002.002. La mise à jour système de la console reste obligatoire pour lancer le jeu. Continuez à sauvegarder à la main : un plantage reste possible, et le correctif de la sauvegarde auto n'efface pas ce risque.<br>
   </p>
 
   <p>
